@@ -1,0 +1,48 @@
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Ignore build files
+build/
+dist/
+
+# Ignore environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore log files
+logs/
+*.log
+yarn-error.log
+debug.log
+
+# Ignore IntelliJ & VS Code settings
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Spring Boot specific files
+target/
+*.jar
+*.war
+*.iml
+
+# Ignore Maven / Gradle dependencies
+.mvn/
+.gradle/
+*.class
+
+# Ignore compiled files
+bin/
+out/
+
+# Ignore STS (Spring Tool Suite) specific files
+.springBeans/
