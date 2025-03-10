@@ -1,0 +1,27 @@
+
+.user{
+    text-align: center;
+}
+  
+.button2 {
+    text-align: center;
+    margin-top: 20px;
+    height:50px;
+}
+
+.profile1{
+    margin-top: 30px;
+}
+
+
+.editBtn{
+    cursor: pointer;
+    border: 1px solid #66d809;
+    background-color: transparent;
+    height: 30px;
+    width: 100px;
+    color: #06b951;
+    font-size: 1em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 12px;
+}
